@@ -11,8 +11,10 @@ The paper is implemented in three parts :
 ### Results:
 
 Original Data:
+
 ![alt text](https://github.com/smit-r/Shape-Generation-using-Spatially-Partitioned-Point-Clouds/blob/main/org_chair.png?raw=true)
 
 Generated Data:
+
 ![alt text](https://github.com/smit-r/Shape-Generation-using-Spatially-Partitioned-Point-Clouds/blob/main/gen_chair.png?raw=true)
 
